@@ -4,11 +4,11 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 ## [sites de référence](#sites)
 
-## [fiches, résumés](#resume)
+## [formation](#formation)
 
 ## [astuce](#astuce)
 
-## [extra](#extra)
+## [pour aller plus loin](#loin)
 
 ## [projet](#projet)
 

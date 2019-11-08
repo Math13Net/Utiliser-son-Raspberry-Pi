@@ -2,17 +2,17 @@
 Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 
-## [site](#site)
+## 🌈 [site](#site)
 
-## [magazine](#magazine)
+## ❤️ [magazine](#magazine)
 
-## [formation](#formation)
+## 🚀 [formation](#formation)
 
-## [astuce](#astuce)
+## 📢 [astuce](#astuce)
 
-## [pour aller plus loin](#loin)
+## 🌐 [pour aller plus loin](#loin)
 
-## [projet](#projet)
+## 👷 [projet](#projet)
 
 
 ------------------------------------------------------------------------------------------------

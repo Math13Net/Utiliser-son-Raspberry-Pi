@@ -18,3 +18,8 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 ## <a name="sites"></a> site incontournable
 * ### [the official Raspberry Pi](https://www.raspberrypi.org/)
 * ### []()
+
+
+## <a name="projet"></a> projets réalisés
+* ### [maze game](https://www.raspberrypi.org/)
+* ### []()

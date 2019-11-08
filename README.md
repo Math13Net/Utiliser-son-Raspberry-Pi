@@ -36,7 +36,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 * ### [3 programmes pour progresser sous Python]() : Pierre Caillou Ciseau - Le pendu - Poker à Las Vegas
 * ### [guide Raspberry Pi par thème :
 
-> texte
+
   
 ## <a name="astuce"></a> quelques petits trucs à connaître
 * ### changer les raccourcis claviers d'un Rasp

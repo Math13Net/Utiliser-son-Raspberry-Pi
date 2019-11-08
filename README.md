@@ -33,9 +33,17 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
   * #### Teaching Physical Computing with Raspberry Pi and Python
   * #### Introduction to Cybersecurity for Teachers
   * #### Programming with GUIs
+* ### [3 programmes pour progresser sous Python]() : Pierre Caillou Ciseau - Le pendu - Poker à Las Vegas
+* ### [guide Raspberry Pi par thème :
+
+
   
 ## <a name="astuce"></a> quelques petits trucs à connaître
-* ### [the official RaspberryPi](https://www.raspberrypi.org/)
+* ### changer les raccourcis claviers d'un Rasp
+* ### mettre un Rasp sur IP fixe
+
+
+
 * ### []()
 
 ## <a name="loin"></a> le coin des pros : pour aller plus loin

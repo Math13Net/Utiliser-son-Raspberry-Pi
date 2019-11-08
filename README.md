@@ -2,37 +2,38 @@
 Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 
-## [sites de référence](#sites)
+## [site](#site)
 
-## [magasines](#magasine)
+## [magazine](#magazine)
 
 ## [formation](#formation)
 
-## [astuces](#astuce)
+## [astuce](#astuce)
 
 ## [pour aller plus loin](#loin)
 
-## [projets](#projet)
+## [projet](#projet)
 
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="sites ou magasines"></a> sites incontournables et magasines sympathiques !
+## <a name="site"></a> sites incontournables
 * ### [the official RaspberryPi](https://www.raspberrypi.org/) : excellent site - beaucoup de matériels ré-exploitables
 * ### [RaspberryPi France](https://www.raspberrypi-france.fr/) : nettement moins bien
 
-## <a name="magasines"></a> magasines sur le Pi !
+## <a name="magazines"></a> magazines sur le Pi !
 * ### [hello world](https://helloworld.raspberrypi.org/) : un magasine gratuit intéressant
 * ### [magi pi](https://www.framboise314.fr/publications-revues-magazines-livres-e-books-et-articles-sur-le-raspberry-pi/the-magpi/) : tous les numéros de magpi en pdf gratuits - contient aussi des pfds de résumés excellents (commandes en lignes, python pour les jeux, hacking, ...)
 
+## <a name="formation"></a> formation gratuite de qualité !
+* ### [formation RaspberryPi - UK](https://www.raspberrypi.org/training/online/) :
 
 
-
-## <a name="sites"></a> site incontournable
+## <a name="astuce"></a> quelques petits trucs à connaître
 * ### [the official RaspberryPi](https://www.raspberrypi.org/)
 * ### []()
 
-
+## <a name="loin"></a> le coin des pros : pour aller plus loin
 * ### [formation RaspberryPi - UK](https://www.raspberrypi.org/training/online/) : formation de qualté sur des thèmes bien au delà du raspberry et entièrement gratuite
 
 ## <a name="projet"></a> projets réalisés

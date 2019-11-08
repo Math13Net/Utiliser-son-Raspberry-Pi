@@ -27,8 +27,13 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 ## <a name="formation"></a> formation gratuite de qualité !
 * ### [formation RaspberryPi - UK](https://www.raspberrypi.org/training/online/) :
-
-
+  * #### An Introduction to Computer Networking for Teachers
+  * #### Understanding Computer Systems
+  * #### Object-oriented Programming in Python: Create Your Own Adventure Game
+  * #### Teaching Physical Computing with Raspberry Pi and Python
+  * #### Introduction to Cybersecurity for Teachers
+  * #### Programming with GUIs
+  
 ## <a name="astuce"></a> quelques petits trucs à connaître
 * ### [the official RaspberryPi](https://www.raspberrypi.org/)
 * ### []()

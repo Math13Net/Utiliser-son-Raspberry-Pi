@@ -17,7 +17,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="sites ou magasines"></a> sites incontournables et magasines sympathiques !
+## <span style='color:red'><a name="sites ou magasines"></a> sites incontournables et magasines sympathiques !</span>
 * ### [the official RaspberryPi](https://www.raspberrypi.org/) : excellent site - beaucoup de matériels ré-exploitables
 * ### [RaspberryPi France](https://www.raspberrypi-france.fr/) : nettement moins bien
 

@@ -16,18 +16,18 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 ## <a name="sites ou magasines"></a> sites incontournables et magasines sympathiques !
-* ### [the official Raspberry Pi](https://www.raspberrypi.org/)
+* ### [the official RaspberryPi](https://www.raspberrypi.org/)
 * ### []()
 
 * ### [hello world](https://helloworld.raspberrypi.org/) : un magasie gratuite intéressant
 
 
 ## <a name="sites"></a> site incontournable
-* ### [the official Raspberry Pi](https://www.raspberrypi.org/)
+* ### [the official RaspberryPi](https://www.raspberrypi.org/)
 * ### []()
 
 
-* ### [formations RasberryPi - UK](https://www.raspberrypi.org/training/online/) : formation de qualté sur des thèmes bien au delà du raspberry et entièrement gratuite
+* ### [formation RaspberryPi - UK](https://www.raspberrypi.org/training/online/) : formation de qualté sur des thèmes bien au delà du raspberry et entièrement gratuite
 
 ## <a name="projet"></a> projets réalisés
 * ### [maze_game_sujet](https://github.com/Math13Net/Utiliser-son-Raspberry-Pi/blob/master/maze_game_solution.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[maze_game_solution](https://github.com/Math13Net/Utiliser-son-Raspberry-Pi/blob/master/maze_game_solution.py)

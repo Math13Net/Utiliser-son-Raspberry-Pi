@@ -24,7 +24,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 ------------------------------------------------------------------------------------------------
 
-## <a name="magazines"></a> magazines sur le Pi !
+## <a name="magazine"></a> magazines sur le Pi !
 * ### [hello world](https://helloworld.raspberrypi.org/) : un magasine gratuit intéressant
 * ### [magi pi](https://www.framboise314.fr/publications-revues-magazines-livres-e-books-et-articles-sur-le-raspberry-pi/the-magpi/) : tous les numéros de magpi en pdf gratuits - contient aussi des pfds de résumés excellents (commandes en lignes, python pour les jeux, hacking, ...)
 

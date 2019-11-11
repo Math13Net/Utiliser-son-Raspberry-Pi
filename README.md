@@ -39,7 +39,11 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
   * #### Introduction to Cybersecurity for Teachers
   * #### Programming with GUIs
 * ### [3 programmes pour progresser sous Python]() : Pierre Caillou Ciseau - Le pendu - Poker à Las Vegas
-* ### [guide Raspberry Pi par thème :
+* ### résumé module Raspberry Pi :
+  * #### [module caméra]()
+  * #### [module GPIO]()  
+
+
 
 ------------------------------------------------------------------------------------------------
   

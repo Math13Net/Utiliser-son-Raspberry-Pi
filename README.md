@@ -59,6 +59,10 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 -------------------------------------------------------------------------------------------------
 
 ## <a name="projet"></a> projets réalisés
-* ### [RPG : list - dictionnary](https://projects.raspberrypi.org/en/projects/rpg)
-* ### [deck of cards : class](https://projects.raspberrypi.org/en/projects/deck-of-cards) 
-* ### []() 
+* ### programmation python
+* #### [RPG : list - dictionnary](https://projects.raspberrypi.org/en/projects/rpg)
+* #### [deck of cards : class](https://projects.raspberrypi.org/en/projects/deck-of-cards) 
+* #### []()
+
+* ### raspberry et capteurs
+* #### []()

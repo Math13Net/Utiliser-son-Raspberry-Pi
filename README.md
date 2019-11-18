@@ -48,6 +48,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 ------------------------------------------------------------------------------------------------
   
 ## <a name="astuce"></a> quelques petits trucs à connaître
+* ### [mettre à jour son raspberry](https://angristan.fr/mettre-a-jour-raspberry-pi-sous-raspbian/)
 * ### changer les raccourcis claviers d'un Rasp
 * ### mettre un Rasp sur IP fixe
 

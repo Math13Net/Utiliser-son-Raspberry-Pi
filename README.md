@@ -65,7 +65,10 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 * ### programmation python
 1. [RPG : list - dictionnary](https://projects.raspberrypi.org/en/projects/rpg)
 2. [deck of cards : class](https://projects.raspberrypi.org/en/projects/deck-of-cards) 
-3. []()
+3. [serveur web](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
+
+* ### multi-compétence
+1. [serveur web : python - web - linux](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
 
 * ### raspberry et capteurs
 1. []()

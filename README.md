@@ -58,6 +58,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 ## <a name="loin"></a> le coin des pros : pour aller plus loin
 * ### [formation RaspberryPi - UK](https://www.raspberrypi.org/training/online/) : formation de qualté sur des thèmes bien au delà du raspberry et entièrement gratuite
 * ### [quelques tutos intéressants](https://raspberry-pi.fr/tutoriels/)
+* ### [idem : qq tutos](https://www.freecodecamp.org/)
 
 -------------------------------------------------------------------------------------------------
 

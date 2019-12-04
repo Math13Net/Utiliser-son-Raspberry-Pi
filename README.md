@@ -72,6 +72,6 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 1. [serveur web : python - web - linux](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
 
 * ### raspberry et capteurs
-1. []()
-2. []()
+1. [initiation à la caméra](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
+2. [caméra : selfies minecraft](https://projects.raspberrypi.org/en/projects/minecraft-selfies)
 3. []()

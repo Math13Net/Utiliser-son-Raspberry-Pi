@@ -52,6 +52,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 * ### [mettre à jour son raspberry](https://angristan.fr/mettre-a-jour-raspberry-pi-sous-raspbian/)
 * ### changer les raccourcis claviers d'un Rasp
 * ### mettre un Rasp sur IP fixe
+* ### installer un serveur web : serveur apache + PHP
 
 -------------------------------------------------------------------------------------------------
 

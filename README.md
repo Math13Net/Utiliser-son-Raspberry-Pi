@@ -42,9 +42,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
   * #### Programming with GUIs
 * ### [3 programmes pour progresser sous Python]() : Pierre Caillou Ciseau - Le pendu - Poker à Las Vegas
 
-* ### résumé module Raspberry Pi :
-  * #### [module caméra]()
-  * #### [module GPIO]()  
+* ### [Adafruit](https://learn.adafruit.com/series/learn-raspberry-pi)  
 
 * ### approfondir un thème précis
   * #### [les commandes en ligne](https://www.framboise314.fr/docs/MagPi_Essentials_Bash_v1.pdf)

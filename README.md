@@ -40,11 +40,21 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
   * #### Introduction to Cybersecurity for Teachers
   * #### Programming with GUIs
 * ### [3 programmes pour progresser sous Python]() : Pierre Caillou Ciseau - Le pendu - Poker à Las Vegas
+
 * ### résumé module Raspberry Pi :
   * #### [module caméra]()
   * #### [module GPIO]()  
 
-
+* ### approfondir un thème précis
+  * #### [les commandes en ligne](https://www.framboise314.fr/docs/MagPi_Essentials_Bash_v1.pdf)
+  * #### [le module caméra](https://www.framboise314.fr/docs/Essentials_Camera_v1.pdf)  
+  * #### [le module musique](https://www.framboise314.fr/docs/Essentials_Sonic_Pi-v1.pdf)
+  * #### [faire des jeux en python](https://www.framboise314.fr/docs/MagPi_Essentials_Games_v1.pdf)
+  * #### []()
+  * #### []()  
+  * #### []()
+  * #### []()  
+  
 
 ------------------------------------------------------------------------------------------------
   

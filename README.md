@@ -66,6 +66,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 * ### changer les raccourcis claviers d'un Rasp
 * ### mettre un Rasp sur IP fixe
 * ### installer un serveur web : serveur apache + PHP
+* ### une [raspberry pi leaf]() pour les makers
 
 -------------------------------------------------------------------------------------------------
 

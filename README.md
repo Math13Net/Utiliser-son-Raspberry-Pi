@@ -12,6 +12,8 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 ## 🌐 [pour aller plus loin](#loin)
 
+## [miniprojet](#miniprojet)
+
 ## 👷 [projet](#projet)
 
 
@@ -74,6 +76,11 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 * ### [formation RaspberryPi - UK](https://www.raspberrypi.org/training/online/) : formation de qualté sur des thèmes bien au delà du raspberry et entièrement gratuite
 * ### [quelques tutos intéressants](https://raspberry-pi.fr/tutoriels/)
 * ### [idem : qq tutos](https://www.freecodecamp.org/)
+
+-------------------------------------------------------------------------------------------------
+
+## <a name="miniprojet"></a> mini projets (pour se chauffer)
+* ### [faire fonctionner un buzzer]()
 
 -------------------------------------------------------------------------------------------------
 

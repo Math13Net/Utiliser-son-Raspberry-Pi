@@ -12,7 +12,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 ## 🌐 [pour aller plus loin](#loin)
 
-## [miniprojet](#miniprojet)
+## 🔱 [miniprojet](#miniprojet)
 
 ## 👷 [projet](#projet)
 

@@ -80,7 +80,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 -------------------------------------------------------------------------------------------------
 
 ## <a name="miniprojet"></a> mini projets (pour se chauffer)
-* ### [faire fonctionner un buzzer]()
+* ### [faire fonctionner un buzzer](https://github.com/Math13Net/Utiliser-son-Raspberry-Pi/blob/master/buzzer.py)
 
 -------------------------------------------------------------------------------------------------
 

@@ -27,14 +27,14 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 ------------------------------------------------------------------------------------------------
 
-## <a name="magazine"></a> magazines sur le Pi !
+## <a name="magazine"></a> ❤️ magazines sur le Pi !
 * ### [hello world](https://helloworld.raspberrypi.org/) : un magasine gratuit intéressant
 * ### [magi pi](https://www.framboise314.fr/publications-revues-magazines-livres-e-books-et-articles-sur-le-raspberry-pi/the-magpi/) : tous les numéros de magpi en pdf gratuits - contient aussi des pfds de résumés excellents (commandes en lignes, python pour les jeux, hacking, ...)
 * ### [Raspberry Pi CookBook](http://shop.oreilly.com/product/0636920196372.do)
 
 ------------------------------------------------------------------------------------------------
 
-## <a name="formation"></a> formation gratuite de qualité !
+## <a name="formation"></a> 🚀 formation gratuite de qualité !
 * ### [formation RaspberryPi - UK](https://www.raspberrypi.org/training/online/) :
   * #### An Introduction to Computer Networking for Teachers
   * #### Understanding Computer Systems
@@ -61,7 +61,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 ------------------------------------------------------------------------------------------------
   
-## <a name="astuce"></a> quelques petits trucs à connaître
+## <a name="astuce"></a> 📢 quelques petits trucs à connaître
 * ### [mettre à jour son raspberry](https://angristan.fr/mettre-a-jour-raspberry-pi-sous-raspbian/)
 * ### [se connecter en SSH](https://www.raspberrypi-france.fr/guide/connecter-ssh-raspbian/)
 * ### [se connecter en VNC]()
@@ -72,19 +72,19 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 -------------------------------------------------------------------------------------------------
 
-## <a name="loin"></a> le coin des pros : pour aller plus loin
+## <a name="loin"></a> 🌐 le coin des pros : pour aller plus loin
 * ### [formation RaspberryPi - UK](https://www.raspberrypi.org/training/online/) : formation de qualté sur des thèmes bien au delà du raspberry et entièrement gratuite
 * ### [quelques tutos intéressants](https://raspberry-pi.fr/tutoriels/)
 * ### [idem : qq tutos](https://www.freecodecamp.org/)
 
 -------------------------------------------------------------------------------------------------
 
-## <a name="miniprojet"></a> mini projets (pour se chauffer)
+## <a name="miniprojet"></a> 🔱 mini projets (pour se chauffer)
 * ### [faire fonctionner un buzzer](https://github.com/Math13Net/Utiliser-son-Raspberry-Pi/blob/master/buzzer.py)
 
 -------------------------------------------------------------------------------------------------
 
-## <a name="projet"></a> projets réalisés
+## <a name="projet"></a> 👷 projets réalisés
 * ### programmation python
 1. [RPG : list - dictionnary](https://projects.raspberrypi.org/en/projects/rpg)
 2. [deck of cards : class](https://projects.raspberrypi.org/en/projects/deck-of-cards) 

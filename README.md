@@ -54,6 +54,12 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
   * #### [le module musique](https://www.framboise314.fr/docs/Essentials_Sonic_Pi-v1.pdf)
   * #### [faire des jeux en python](https://www.framboise314.fr/docs/MagPi_Essentials_Games_v1.pdf)
   * #### [GPIO](https://www.framboise314.fr/docs/Essentials_GPIOZero_v1.pdf)
+   * #### les bibliothèques pour le GPIO :
+   - RPi.GPIO :
+   - RPIO.GPIO :
+   - WiringPi : 
+   - pigpio :
+   - gpiozero :
   * #### [senseHAT](https://www.framboise314.fr/docs/Essentials_SenseHAT_v1.pdf)  
   * #### [minecraft](https://framboise314.fr/docs/Essentials_Minecraft_v1.pdf)
   * #### [programmer en C](https://www.framboise314.fr/docs/Essentials_C_v1.pdf)  

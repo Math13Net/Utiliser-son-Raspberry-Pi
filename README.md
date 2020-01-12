@@ -51,7 +51,8 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 
 * ### approfondir un thème précis
   * #### [les commandes en ligne](https://www.framboise314.fr/docs/MagPi_Essentials_Bash_v1.pdf)
-  * #### [le module caméra](https://www.framboise314.fr/docs/Essentials_Camera_v1.pdf)  
+  * #### [le module caméra](https://www.framboise314.fr/docs/Essentials_Camera_v1.pdf)
+    * ##### [complément](https://www.raspberrypi.org/documentation/raspbian/applications/camera.md)
   * #### [le module musique](https://www.framboise314.fr/docs/Essentials_Sonic_Pi-v1.pdf)
   * #### [faire des jeux en python](https://www.framboise314.fr/docs/MagPi_Essentials_Games_v1.pdf)
   * #### [faire du GPIO : la doc](https://www.raspberrypi.org/documentation/usage/gpio/) :

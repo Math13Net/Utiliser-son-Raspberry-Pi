@@ -55,9 +55,9 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
   * #### [faire des jeux en python](https://www.framboise314.fr/docs/MagPi_Essentials_Games_v1.pdf)
   * #### [GPIO](https://www.framboise314.fr/docs/Essentials_GPIOZero_v1.pdf)
    * ##### les bibliothèques pour le GPIO :
-   ###### - RPi.GPIO :
-   .. * RPIO.GPIO :
-   .. * WiringPi : 
+     ..* RPi.GPIO :
+     ..* RPIO.GPIO :
+     ..* WiringPi : 
    - pigpio :
    - gpiozero :
   * #### [senseHAT](https://www.framboise314.fr/docs/Essentials_SenseHAT_v1.pdf)  

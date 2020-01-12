@@ -56,8 +56,8 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
   * #### [GPIO](https://www.framboise314.fr/docs/Essentials_GPIOZero_v1.pdf)
    * ##### les bibliothèques pour le GPIO :
    ###### - RPi.GPIO :
-   - RPIO.GPIO :
-   - WiringPi : 
+   .. * RPIO.GPIO :
+   .. * WiringPi : 
    - pigpio :
    - gpiozero :
   * #### [senseHAT](https://www.framboise314.fr/docs/Essentials_SenseHAT_v1.pdf)  

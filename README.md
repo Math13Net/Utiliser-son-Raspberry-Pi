@@ -77,7 +77,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 * ### mettre un Rasp sur IP fixe
 * ### installer un serveur web : serveur apache + PHP
 * ### une [raspberry pi leaf](https://github.com/Math13Net/Utiliser-son-Raspberry-Pi/blob/master/rpiblusleaf16.pdf) pour les makers
-* ### piloter le hard avec son Android : Blue Dot p 294 - Raspberry PI CookBook
+* ### piloter le hard avec son Android : [Blue Dot](https://bluedot.readthedocs.io/en/latest/index.html) p 294 - Raspberry PI CookBook
 -------------------------------------------------------------------------------------------------
 
 ## <a name="loin"></a> 🌐 le coin des pros : pour aller plus loin

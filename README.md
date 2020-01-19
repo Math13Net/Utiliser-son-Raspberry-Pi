@@ -98,8 +98,7 @@ Apprendre à utliser un Raspberry Pi en partant de zéro !
 1. [RPG : list - dictionnary](https://projects.raspberrypi.org/en/projects/rpg)
 2. [deck of cards : class](https://projects.raspberrypi.org/en/projects/deck-of-cards) 
 3. [serveur web](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
-4. detecter un mouvement et allumer une led
-* [la PIR](https://www.mbtechworks.com/projects/pir-motion-sensor-with-raspberry-pi.html)
+4. detecter un mouvement et allumer une led : [la PIR](https://www.mbtechworks.com/projects/pir-motion-sensor-with-raspberry-pi.html)
 
 * ### multi-compétence
 1. [serveur web : python - web - linux](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)

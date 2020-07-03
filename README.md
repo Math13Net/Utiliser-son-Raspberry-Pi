@@ -30,10 +30,11 @@ UNDER CONSTRUCTION
 
 ------------------------------------------------------------------------------------------------
 
-## <a name="magazine"></a> ❤️ magazines sur le Pi !
+## <a name="magazine"></a> ❤️ magazine et livre sur le Pi !
 * ### [hello world](https://helloworld.raspberrypi.org/) : un magasine gratuit intéressant
 * ### [magi pi](https://www.framboise314.fr/publications-revues-magazines-livres-e-books-et-articles-sur-le-raspberry-pi/the-magpi/) : tous les numéros de magpi en pdf gratuits - contient aussi des pfds de résumés excellents (commandes en lignes, python pour les jeux, hacking, ...)
 * ### [Raspberry Pi CookBook](http://shop.oreilly.com/product/0636920196372.do)
+* ### [Raspberry Pi 4](https://www.editions-eni.fr/livre/raspberry-pi-4-exploitez-tout-le-potentiel-de-votre-nano-ordinateur-inclus-un-projet-de-station-meteo-9782409022081)
 
 ------------------------------------------------------------------------------------------------
 

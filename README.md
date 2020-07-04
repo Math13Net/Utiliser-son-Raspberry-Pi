@@ -25,7 +25,7 @@ UNDER CONSTRUCTION
 ## <a name="site"></a> 🌈 sites incontournables
 * ### [the official RaspberryPi](https://www.raspberrypi.org/) : excellent site - beaucoup de matériels ré-exploitables
 * ### [documentation raspberry pi](https://www.raspberrypi.org/documentation/)
-* ### [RaspberryPi France](https://www.raspberrypi-france.fr/) : nettement moins bien
+* ### [RaspberryPi France](https://www.raspberrypi-france.fr/)
 * ### [pimylifeup](https://pimylifeup.com/)
 
 ------------------------------------------------------------------------------------------------

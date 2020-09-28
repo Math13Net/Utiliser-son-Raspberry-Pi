@@ -102,6 +102,9 @@ UNDER CONSTRUCTION
 2. [deck of cards : class](https://projects.raspberrypi.org/en/projects/deck-of-cards) 
 3. [serveur web](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
 4. detecter un mouvement et allumer une led : [la PIR](https://www.mbtechworks.com/projects/pir-motion-sensor-with-raspberry-pi.html)
+5. [debug](https://projects.raspberrypi.org/en/projects/test-detectives)
+6. [créer une doc](https://projects.raspberrypi.org/en/projects/documenting-your-code)
+
 
 * ### multi-compétence
 1. [serveur web : python - web - linux](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)

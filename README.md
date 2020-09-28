@@ -69,6 +69,7 @@ UNDER CONSTRUCTION
   * #### [minecraft](https://framboise314.fr/docs/Essentials_Minecraft_v1.pdf)
   * #### [programmer en C](https://www.framboise314.fr/docs/Essentials_C_v1.pdf)  
   
+ * ### [teach CS : online research seminar](https://www.raspberrypi.org/computing-education-research-online-seminars/) 
 
 ------------------------------------------------------------------------------------------------
   

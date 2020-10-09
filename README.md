@@ -27,6 +27,7 @@ UNDER CONSTRUCTION
 * ### [documentation raspberry pi](https://www.raspberrypi.org/documentation/)
 * ### [RaspberryPi France](https://www.raspberrypi-france.fr/)
 * ### [pimylifeup](https://pimylifeup.com/)
+* ### [codingame](https://www.codingame.com) : programmer en s'amusant !
 
 ------------------------------------------------------------------------------------------------
 
